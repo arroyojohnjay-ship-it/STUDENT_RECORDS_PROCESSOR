@@ -1,1 +1,46 @@
+[
+    {
+        "id": 1001,
+        "name": "Denmark Day",
+        "year": 1,
+        "course": "BSAB",
+        "grades": [90, 92, 88, 95],
+        "enrolled": true
+    },
+    {
+        "id": 1002,
+        "name": "Zairah Tauro",
+        "year": 2,
+        "course": "BEED",
+        "grades": [85, 89, 90, 87],
+        "enrolled": true
+    },
+    {
+        "id": 1003,
+        "name": "Arcel Dave Alojepan",
+        "year": 1,
+        "course": "BSAB",
+        "grades": [95, 94, 96, 93],
+        "enrolled": true
+    },
+    {
+        "id": 1004,
+        "name": "Joannah Marie Elgario",
+        "year": 3,
+        "course": "BSIT",
+        "grades": [88, 91, 86, 90],
+        "enrolled": false
+    },
+    {
+        "id": 1005,
+        "name": "Remark Allon",
+        "year": 2,
+        "course": "BSIT",
+        "grades": [82, 85, 84, 88],
+        "enrolled": true
+    }
+
+]
+
+
 
